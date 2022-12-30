@@ -59,6 +59,6 @@ function tpTitleLero() {
 }
 
 module.exports.tpLero = {
-  tpTitleLero: tpTitleLero(),
-  tpDescLero: tpDescLero()
+  tpTitleLero: tpTitleLero,
+  tpDescLero: tpDescLero
 };
