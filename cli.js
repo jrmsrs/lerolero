@@ -1,4 +1,4 @@
 #! /usr/bin/env node
-const lerolero = require('./')
+const { tpLero } = require("./");
 
-console.log(lerolero())
+console.log(tpLero);
