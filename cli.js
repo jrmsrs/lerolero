@@ -1,4 +1,7 @@
 #! /usr/bin/env node
-const { tpLero } = require("./");
+const { lero } = require("./");
 
-console.log(tpLero.tpTitleLero());
+console.log("Iss. Title: " + lero.issueTitleLero());
+console.log("Iss. Desc: " + lero.issueDescLero());
+console.log("Sol. Title: " + lero.solutionTitleLero());
+console.log("Sol. Desc: " + lero.solutionDescLero());
