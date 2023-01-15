@@ -130,8 +130,8 @@ function solutionDescLeroPlus() {
     randomItem(solutionLero2) +
     randomItem(solutionLero3) +
     randomItem(solutionLero4) +
-    "\nVivamus ultricies mollis nibh, quis dignissim nisl lobortis quis. Vestibulum *id tempus* tellus. Pellentesque at gravida purus, eu mollis nibh. Nunc nec tincidunt quam. Nam commodo urna ut nulla gravida commodo. Morbi in turpis nec nisl auctor rutrum. Quisque ut turpis arcu. ~Fusce mauris nisi~, viverra sit amet faucibus quis, consequat sit amet massa. Vivamus ornare volutpat felis, quis rutrum purus sodales." +
-    "\n- Pellentesque at" +
+    "\n\nVivamus ultricies mollis nibh, quis dignissim nisl lobortis quis. Vestibulum *id tempus* tellus. Pellentesque at gravida purus, eu mollis nibh. Nunc nec tincidunt quam. Nam commodo urna ut nulla gravida commodo. Morbi in turpis nec nisl auctor rutrum. Quisque ut turpis arcu. ~Fusce mauris nisi~, viverra sit amet faucibus quis, consequat sit amet massa. Vivamus ornare volutpat felis, quis rutrum purus sodales." +
+    "\n\n- Pellentesque at" +
     "\n- Nunc nec tincidunt quam" +
     "\n- Mollis nibh Nunc nec tincidunt" +
     "\n- Viverra sit amet faucibus quis" +
